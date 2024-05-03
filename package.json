@@ -1,0 +1,28 @@
+{
+  "name": "alice-apollomatic",
+  "version": "1.0.0",
+  "description": "A mini demo project for Alice to check out ApolloMatic :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliabreeden/Alice-ApolloMatic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliabreeden/Alice-ApolloMatic/issues"
+  },
+  "homepage": "https://github.com/juliabreeden/Alice-ApolloMatic#readme",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "apollomatic": "^1.1.2",
+    "graphql": "^16.8.1",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.1"
+  }
+}
